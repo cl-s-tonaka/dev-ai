@@ -1,0 +1,13 @@
+{
+  "name": "dev-documentation",
+  "version": "1.0.0",
+  "description": "Documentation skills: README generation, API documentation, code comments, changelog generation, technical specs, runbooks, and onboarding guides.",
+  "author": {
+    "name": "Dev Skills Contributors",
+    "email": "dev-skills@example.com",
+    "url": "https://github.com/dev-skills"
+  },
+  "keywords": ["development", "documentation", "readme", "api-docs", "changelog", "runbook"],
+  "homepage": "https://github.com/dev-skills",
+  "license": "MIT"
+}

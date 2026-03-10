@@ -1,0 +1,13 @@
+{
+  "name": "dev-toolkit",
+  "version": "1.0.0",
+  "description": "Developer utility skills: Git workflows, commit messages, PR templates, code generation, regex building, and SQL query optimization.",
+  "author": {
+    "name": "Dev Skills Contributors",
+    "email": "dev-skills@example.com",
+    "url": "https://github.com/dev-skills"
+  },
+  "keywords": ["development", "git", "commit", "pr", "code-generation", "regex", "sql"],
+  "homepage": "https://github.com/dev-skills",
+  "license": "MIT"
+}

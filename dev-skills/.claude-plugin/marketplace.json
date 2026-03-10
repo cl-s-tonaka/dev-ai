@@ -1,0 +1,61 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "dev-skills",
+  "version": "1.0.0",
+  "description": "Structured AI workflows for software development. 60 domain-specific skills and 27 chained workflows across 8 developer plugins — from code quality to architecture, testing, debugging, and DevOps.",
+  "owner": {
+    "name": "Dev Skills Contributors",
+    "email": "dev-skills@example.com",
+    "url": "https://github.com/dev-skills"
+  },
+  "plugins": [
+    {
+      "name": "dev-toolkit",
+      "description": "Developer utility skills: Git workflows, commit messages, PR templates, code generation, regex building, and SQL query optimization.",
+      "source": "./dev-toolkit",
+      "category": "development"
+    },
+    {
+      "name": "dev-code-quality",
+      "description": "Code quality skills: code review, refactoring, clean code, naming conventions, complexity analysis, code smell detection, and performance review.",
+      "source": "./dev-code-quality",
+      "category": "development"
+    },
+    {
+      "name": "dev-testing",
+      "description": "Testing skills: test strategy, unit/integration/E2E test design, TDD guidance, test coverage analysis, mock strategies, and test data generation.",
+      "source": "./dev-testing",
+      "category": "development"
+    },
+    {
+      "name": "dev-architecture",
+      "description": "Architecture skills: system design, ADR creation, design patterns, API design, database schema, microservices, scalability analysis, and C4 diagrams.",
+      "source": "./dev-architecture",
+      "category": "development"
+    },
+    {
+      "name": "dev-debugging",
+      "description": "Debugging skills: root cause analysis, log analysis, stack trace analysis, performance profiling, memory leak detection, and incident postmortems.",
+      "source": "./dev-debugging",
+      "category": "development"
+    },
+    {
+      "name": "dev-documentation",
+      "description": "Documentation skills: README generation, API documentation, code comments, changelog generation, technical specs, runbooks, and onboarding guides.",
+      "source": "./dev-documentation",
+      "category": "development"
+    },
+    {
+      "name": "dev-devops",
+      "description": "DevOps skills: CI/CD pipeline design, Dockerfile optimization, Kubernetes manifests, IaC, deployment strategies, monitoring, SRE principles, and cost optimization.",
+      "source": "./dev-devops",
+      "category": "development"
+    },
+    {
+      "name": "dev-security",
+      "description": "Security skills: security code review, threat modeling, dependency audits, authentication design, secure coding, secrets management, and penetration test planning.",
+      "source": "./dev-security",
+      "category": "development"
+    }
+  ]
+}

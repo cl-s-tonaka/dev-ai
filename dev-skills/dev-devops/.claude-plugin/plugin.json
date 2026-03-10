@@ -1,0 +1,13 @@
+{
+  "name": "dev-devops",
+  "version": "1.0.0",
+  "description": "DevOps skills: CI/CD pipeline design, Dockerfile optimization, Kubernetes manifests, IaC, deployment strategies, monitoring, SRE principles, and cost optimization.",
+  "author": {
+    "name": "Dev Skills Contributors",
+    "email": "dev-skills@example.com",
+    "url": "https://github.com/dev-skills"
+  },
+  "keywords": ["development", "devops", "ci-cd", "docker", "kubernetes", "terraform", "monitoring", "sre"],
+  "homepage": "https://github.com/dev-skills",
+  "license": "MIT"
+}

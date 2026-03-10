@@ -1,0 +1,13 @@
+{
+  "name": "dev-architecture",
+  "version": "1.0.0",
+  "description": "Architecture skills: system design, ADR creation, design patterns, API design, database schema, microservices, scalability analysis, and C4 diagrams.",
+  "author": {
+    "name": "Dev Skills Contributors",
+    "email": "dev-skills@example.com",
+    "url": "https://github.com/dev-skills"
+  },
+  "keywords": ["development", "architecture", "system-design", "adr", "api", "microservices", "database"],
+  "homepage": "https://github.com/dev-skills",
+  "license": "MIT"
+}

@@ -1,0 +1,13 @@
+{
+  "name": "dev-debugging",
+  "version": "1.0.0",
+  "description": "Debugging skills: root cause analysis, log analysis, stack trace analysis, performance profiling, memory leak detection, and incident postmortems.",
+  "author": {
+    "name": "Dev Skills Contributors",
+    "email": "dev-skills@example.com",
+    "url": "https://github.com/dev-skills"
+  },
+  "keywords": ["development", "debugging", "troubleshooting", "profiling", "postmortem", "root-cause"],
+  "homepage": "https://github.com/dev-skills",
+  "license": "MIT"
+}

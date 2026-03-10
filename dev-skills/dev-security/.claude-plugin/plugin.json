@@ -1,0 +1,13 @@
+{
+  "name": "dev-security",
+  "version": "1.0.0",
+  "description": "Security skills: security code review, threat modeling, dependency audits, authentication design, secure coding, secrets management, and penetration test planning.",
+  "author": {
+    "name": "Dev Skills Contributors",
+    "email": "dev-skills@example.com",
+    "url": "https://github.com/dev-skills"
+  },
+  "keywords": ["development", "security", "owasp", "threat-modeling", "authentication", "secure-coding"],
+  "homepage": "https://github.com/dev-skills",
+  "license": "MIT"
+}

@@ -1,0 +1,13 @@
+{
+  "name": "dev-testing",
+  "version": "1.0.0",
+  "description": "Testing skills: test strategy, unit/integration/E2E test design, TDD guidance, test coverage analysis, mock strategies, and test data generation.",
+  "author": {
+    "name": "Dev Skills Contributors",
+    "email": "dev-skills@example.com",
+    "url": "https://github.com/dev-skills"
+  },
+  "keywords": ["development", "testing", "tdd", "unit-test", "integration-test", "e2e", "coverage"],
+  "homepage": "https://github.com/dev-skills",
+  "license": "MIT"
+}

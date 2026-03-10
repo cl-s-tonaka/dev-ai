@@ -1,0 +1,13 @@
+{
+  "name": "dev-code-quality",
+  "version": "1.0.0",
+  "description": "Code quality skills: code review, refactoring, clean code, naming conventions, complexity analysis, code smell detection, and performance review.",
+  "author": {
+    "name": "Dev Skills Contributors",
+    "email": "dev-skills@example.com",
+    "url": "https://github.com/dev-skills"
+  },
+  "keywords": ["development", "code-quality", "review", "refactoring", "clean-code", "solid"],
+  "homepage": "https://github.com/dev-skills",
+  "license": "MIT"
+}
