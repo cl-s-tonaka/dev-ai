@@ -2,7 +2,7 @@
   "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
   "name": "dev-skills",
   "version": "1.0.0",
-  "description": "Structured AI workflows for software development. 60 domain-specific skills and 27 chained workflows across 8 developer plugins — from code quality to architecture, testing, debugging, and DevOps.",
+  "description": "Structured AI workflows for software development. 66 domain-specific skills and 30 chained workflows across 10 developer plugins — from code quality to architecture, testing, debugging, DevOps, meta-skills, and provider integrations.",
   "owner": {
     "name": "Dev Skills Contributors",
     "email": "dev-skills@example.com",
@@ -55,6 +55,18 @@
       "name": "dev-security",
       "description": "Security skills: security code review, threat modeling, dependency audits, authentication design, secure coding, secrets management, and penetration test planning.",
       "source": "./dev-security",
+      "category": "development"
+    },
+    {
+      "name": "dev-meta",
+      "description": "Meta-skills for managing and extending the skill ecosystem: skill gap analysis, research, and automatic skill generation.",
+      "source": "./dev-meta",
+      "category": "development"
+    },
+    {
+      "name": "dev-integrations",
+      "description": "Provider-specific skills for cloud services (AWS, GCP, Azure), SaaS platforms (Stripe, Auth0), and infrastructure tools (Terraform, Pulumi).",
+      "source": "./dev-integrations",
       "category": "development"
     }
   ]

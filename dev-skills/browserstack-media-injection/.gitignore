@@ -1,0 +1,26 @@
+# Dependencies
+node_modules/
+
+# Environment
+.env
+
+# Media files (keep .gitkeep)
+media/*.mp4
+media/*.mp3
+media/*.webm
+media/*.wav
+
+# Test artifacts
+screenshots/
+logs/
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo

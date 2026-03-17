@@ -1,0 +1,22 @@
+userName: ${BROWSERSTACK_USERNAME}
+accessKey: ${BROWSERSTACK_ACCESS_KEY}
+
+projectName: BrowserStack SDK Test
+buildName: SDK Test Build
+
+platforms:
+  - os: Windows
+    osVersion: 11
+    browserName: Chrome
+    browserVersion: latest
+
+debug: true
+networkLogs: true
+consoleLogs: info
+
+# Media Injection設定（true/falseで切り替え）
+cameraInjection: false
+cameraInjectionUrl: ${CAMERA_MEDIA_URL}
+
+enableAudioInjection: false
+audioInjectionURL: ${AUDIO_MEDIA_URL}

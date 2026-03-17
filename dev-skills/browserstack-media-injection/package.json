@@ -1,0 +1,30 @@
+{
+  "name": "browserstack-media-injection",
+  "version": "1.0.0",
+  "description": "BrowserStack Media Injection sample project for Automate Pro",
+  "main": "index.js",
+  "scripts": {
+    "test": "wdio run wdio.conf.js",
+    "upload-media": "node scripts/upload-media.js"
+  },
+  "keywords": [
+    "browserstack",
+    "media-injection",
+    "webdriverio",
+    "testing"
+  ],
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "@wdio/browserstack-service": "^8.29.0",
+    "@wdio/cli": "^8.29.0",
+    "@wdio/local-runner": "^8.29.0",
+    "@wdio/mocha-framework": "^8.29.0",
+    "@wdio/spec-reporter": "^8.29.0"
+  },
+  "dependencies": {
+    "axios": "^1.6.0",
+    "dotenv": "^16.3.0",
+    "form-data": "^4.0.0"
+  }
+}
